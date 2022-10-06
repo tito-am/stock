@@ -13,7 +13,7 @@ Prerequisites:
 ## Setup steps
 On your Google GCP account:
 1. [Create your project](https://cloud.google.com/resource-manager/docs/creating-managing-projects)
-2. [Get the credentials (json)](https://cloud.google.com/docs/authentication/getting-started) and S=set up the environment variable `GOOGLE_APPLICATION_CREDENTIALS`
+2. [Get the credentials (json)](https://developers.google.com/workspace/guides/create-credentials#create_credentials_for_a_service_account) and S=set up the environment variable `GOOGLE_APPLICATION_CREDENTIALS`
 3. Hook your github repo to google build. Allow the trigger for each push.
 
 

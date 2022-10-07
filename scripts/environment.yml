@@ -2,10 +2,11 @@ name: stock
 
 dependencies:
   - pip=22.2.2
+  - python==3.8.5
+
   - pip:
       - matplotlib
       - pandas
-      - python==3.8.5
       - requests
       - scikit-learn
       - joblib

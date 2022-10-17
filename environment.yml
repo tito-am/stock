@@ -1,4 +1,4 @@
-name: ycng228-ftam
+name: stock
 
 dependencies:
   - pip=22.2.2

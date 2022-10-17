@@ -1,4 +1,4 @@
-name: stock
+name: stock-ftam
 
 dependencies:
   - pip=22.2.2

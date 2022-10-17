@@ -2,3 +2,16 @@
 *.csv
 *.pkl
 dist*
+src/__pycache__/__init__.cpython-38.pyc
+src/__pycache__/__init__.cpython-39.pyc
+src/algo/__pycache__/__init__.cpython-39.pyc
+src/algo/__pycache__/dummy_model.cpython-39.pyc
+src/business_logic/__pycache__/__init__.cpython-38.pyc
+src/business_logic/__pycache__/__init__.cpython-39.pyc
+src/business_logic/__pycache__/process_query.cpython-38.pyc
+src/business_logic/__pycache__/process_query.cpython-39.pyc
+src/IO/__pycache__/__init__.cpython-38.pyc
+src/IO/__pycache__/__init__.cpython-39.pyc
+src/IO/__pycache__/get_data_from_yahoo.cpython-38.pyc
+src/IO/__pycache__/get_data_from_yahoo.cpython-39.pyc
+src/IO/__pycache__/storage_tools.cpython-39.pyc

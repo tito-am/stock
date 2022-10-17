@@ -5,7 +5,7 @@ from src.business_logic.process_query import create_business_logic
 app = Flask(__name__)
 
 import os
-os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = "/Users/caramelo/Downloads/stock-ftam-01df728fdebc.json"
+os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = "/Users/caramelo/Downloads/stock-ftam-01df728fdebc-labonne.json"
 
 @app.route('/', methods=['GET'])
 def hello():

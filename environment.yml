@@ -1,4 +1,4 @@
-name: ycng228
+name: ycng228-ftam
 channels:
   - anaconda
   - conda-forge

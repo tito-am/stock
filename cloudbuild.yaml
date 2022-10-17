@@ -1,6 +1,6 @@
 steps:
 - name: 'gcr.io/cloud-builders/docker'
-  args: [ 'build', '-t', 'northamerica-northeast1-docker.pkg.dev/stock-ftam/stock-ftam_100/ycng_image_predictor', '.' ]
+  args: [ 'build', '-t', 'northamerica-northeast1-docker.pkg.dev/stock-ftam/stock-ftam_10000/ycng_image_predictor', '.' ]
 images: ['northamerica-northeast1-docker.pkg.dev/stock-ftam/stock-ftam_100/ycng_image_predictor']
 #options:
 #  pool:

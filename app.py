@@ -10,7 +10,7 @@ app = Flask(__name__)
 
 @app.route('/', methods=['GET'])
 def hello():
-    return f'Hello fellow humans, you should use a better route:!\nEX: get_stock_val/<ticker>\n'
+    return f'Hello fellow humans and zombiens, you should use a better route:!\nEX: get_stock_val/<ticker>\n'
 
 
 @app.route('/get_stock_val/dummy/<ticker>', methods=['GET'])

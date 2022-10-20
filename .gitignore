@@ -15,3 +15,6 @@ src/IO/__pycache__/__init__.cpython-39.pyc
 src/IO/__pycache__/get_data_from_yahoo.cpython-38.pyc
 src/IO/__pycache__/get_data_from_yahoo.cpython-39.pyc
 src/IO/__pycache__/storage_tools.cpython-39.pyc
+src/algo/__pycache__/baseline.cpython-38.pyc
+src/algo/__pycache__/dummy_model.cpython-38.pyc
+src/algo/__pycache__/dummy_model.cpython-38.pyc
